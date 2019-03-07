@@ -1,0 +1,21 @@
+
+[Fri Mar 01 18:37:13 2019] [error] [client 192.168.56.1] File does not exist: /var/www/dirtrav, referer: http://192.168.56.101/
+[Fri Mar 01 18:37:13 2019] [error] [client 192.168.56.1] File does not exist: /var/www/dirtrav, referer: http://192.168.56.101/
+[Fri Mar 01 18:37:13 2019] [error] [client 192.168.56.1] File does not exist: /var/www/dirtrav, referer: http://192.168.56.101/
+[Fri Mar 01 18:43:02 2019] [error] [client 192.168.56.1] File does not exist: /var/www/dirtrav, referer: http://192.168.56.101/
+[Fri Mar 01 18:43:02 2019] [error] [client 192.168.56.1] File does not exist: /var/www/dirtrav, referer: http://192.168.56.101/
+[Fri Mar 01 18:43:02 2019] [error] [client 192.168.56.1] File does not exist: /var/www/dirtrav, referer: http://192.168.56.101/
+[Fri Mar 01 18:45:26 2019] [error] [client 192.168.56.1] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Premature end of data in tag foo line 1 in /var/www/test4/example1.php on line 4
+[Fri Mar 01 18:45:26 2019] [error] [client 192.168.56.1] PHP Warning:  simplexml_load_string(): <!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:/etc/passw">]><foo> in /var/www/test4/example1.php on line 4
+[Fri Mar 01 18:45:26 2019] [error] [client 192.168.56.1] PHP Warning:  simplexml_load_string():                                                                               ^ in /var/www/test4/example1.php on line 4
+[Fri Mar 01 18:57:52 2019] [error] [client 192.168.56.1] File does not exist: /var/www/dirtrav, referer: http://192.168.56.101/
+[Fri Mar 01 18:57:52 2019] [error] [client 192.168.56.1] File does not exist: /var/www/dirtrav, referer: http://192.168.56.101/
+[Fri Mar 01 18:57:52 2019] [error] [client 192.168.56.1] File does not exist: /var/www/dirtrav, referer: http://192.168.56.101/
+[Fri Mar 01 19:01:21 2019] [error] [client 192.168.56.1] File does not exist: /var/www/dirtrav, referer: http://192.168.56.101/
+[Fri Mar 01 19:01:21 2019] [error] [client 192.168.56.1] File does not exist: /var/www/dirtrav, referer: http://192.168.56.101/
+[Fri Mar 01 19:01:21 2019] [error] [client 192.168.56.1] File does not exist: /var/www/dirtrav, referer: http://192.168.56.101/
+[Fri Mar 01 19:03:20 2019] [error] [client 192.168.56.1] PHP Parse error:  syntax error, unexpected '!', expecting ',' or ';' in /var/www/test5/example1.php(6) : eval()'d code on line 1
+[Fri Mar 01 19:04:36 2019] [error] [client 192.168.56.1] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /var/www/test5/example1.php(6) : eval()'d code on line 1
+[Fri Mar 01 19:05:14 2019] [error] [client 192.168.56.1] File does not exist: /var/www/dirtrav, referer: http://192.168.56.101/
+[Fri Mar 01 19:05:14 2019] [error] [client 192.168.56.1] File does not exist: /var/www/dirtrav, referer: http://192.168.56.101/
+[Fri Mar 01 19:05:14 2019] [error] [client 192.168.56.1] File does not exist: /var/www/dirtrav, referer: http://192.168.56.101/
